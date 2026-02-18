@@ -1,0 +1,9 @@
+[build]
+  # 소스 코드가 들어있는 폴더 이름
+  base = "north-star-universe-2.0 (1)"
+  
+  # 빌드 명령어
+  command = "npm run build"
+  
+  # 최종 결과물이 나오는 폴더 (가장 중요!)
+  publish = "dist"
